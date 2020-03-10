@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/post/leetcode-144-binary-tree-preorder-traversal/</loc>
+    <lastmod>2020-03-10T14:51:17+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/leetcode-20-valid-parentheses/</loc>
     <lastmod>2020-03-10T13:53:10+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,7 +17,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/leetcode-1-twosum/</loc>
+    <loc>http://localhost:1313/post/leetcode-1-two-sum/</loc>
     <lastmod>2020-03-10T09:33:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -31,14 +38,28 @@
   
   <url>
     <loc>http://localhost:1313/categories/leetcode/</loc>
-    <lastmod>2020-03-10T13:53:10+08:00</lastmod>
+    <lastmod>2020-03-10T14:51:17+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/linkedlist/</loc>
+    <lastmod>2020-03-10T14:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2020-03-10T13:53:10+08:00</lastmod>
+    <lastmod>2020-03-10T14:51:17+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/recursion/</loc>
+    <lastmod>2020-03-10T14:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -59,7 +80,7 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-03-10T13:53:10+08:00</lastmod>
+    <lastmod>2020-03-10T14:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
