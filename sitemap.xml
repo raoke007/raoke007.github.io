@@ -3,6 +3,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/post/leetcode-2-add-two-numbers/</loc>
+    <lastmod>2020-03-17T08:29:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/leetcode-173-binary-search-tree-iterator/</loc>
+    <lastmod>2020-03-13T15:57:14+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/leetcode-71-simplify-path/</loc>
+    <lastmod>2020-03-12T16:51:43+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/leetcode-94-binary-tree-inorder-traversal/</loc>
     <lastmod>2020-03-11T14:01:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -45,6 +66,13 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/bst/</loc>
+    <lastmod>2020-03-13T15:57:14+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -52,35 +80,42 @@
   
   <url>
     <loc>http://localhost:1313/categories/leetcode/</loc>
-    <lastmod>2020-03-11T14:01:01+08:00</lastmod>
+    <lastmod>2020-03-17T08:29:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/linkedlist/</loc>
-    <lastmod>2020-03-11T14:01:01+08:00</lastmod>
+    <lastmod>2020-03-17T08:29:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2020-03-11T14:01:01+08:00</lastmod>
+    <lastmod>2020-03-17T08:29:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/queue/</loc>
+    <lastmod>2020-03-13T15:57:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/recursion/</loc>
-    <lastmod>2020-03-11T14:01:01+08:00</lastmod>
+    <lastmod>2020-03-17T08:29:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/stack/</loc>
-    <lastmod>2020-03-10T13:53:10+08:00</lastmod>
+    <lastmod>2020-03-12T16:51:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -94,7 +129,7 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-03-11T14:01:01+08:00</lastmod>
+    <lastmod>2020-03-17T08:29:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

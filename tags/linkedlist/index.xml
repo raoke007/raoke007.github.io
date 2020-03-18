@@ -6,10 +6,19 @@
     <description>Recent content in LinkedList on raoke007&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2020 14:01:01 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2020 08:29:11 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/linkedlist/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LeetCode-2-Add Two Numbers</title>
+      <link>http://localhost:1313/post/leetcode-2-add-two-numbers/</link>
+      <pubDate>Tue, 17 Mar 2020 08:29:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/leetcode-2-add-two-numbers/</guid>
+      <description>描述 1 2 3 4 5 6 7 8 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list. You may assume the two numbers do not contain any leading zero, except the number 0 itself. Example: Input: (2 -&amp;gt; 4</description>
+    </item>
     
     <item>
       <title>LeetCode-94-Binary Tree Inorder Traversal</title>
