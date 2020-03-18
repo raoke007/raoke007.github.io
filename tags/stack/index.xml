@@ -17,7 +17,7 @@
       <pubDate>Thu, 12 Mar 2020 16:51:43 +0800</pubDate>
       
       <guid>http://localhost:1313/post/leetcode-71-simplify-path/</guid>
-      <description>描述 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 Given an absolute path for a file (Unix-style), simplify it. Or in other words, convert it to the canonical path. In a UNIX-style file system, a period . refers to the current directory. Furthermore, a double period .. moves the directory</description>
+      <description>描述 难度：Medium 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 Given an absolute path for a file (Unix-style), simplify it. Or in other words, convert it to the canonical path. In a UNIX-style file system, a period . refers to the current</description>
     </item>
     
     <item>
