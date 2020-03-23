@@ -21,12 +21,12 @@
     </item>
     
     <item>
-      <title></title>
+      <title>LeetCode-7-Reverse Integer</title>
       <link>http://localhost:1313/post/leetcode-7-reverse-integer/</link>
-      <pubDate>Sat, 21 Mar 2020 13:16:14 +0800</pubDate>
+      <pubDate>Sat, 21 Mar 2020 23:03:05 +0800</pubDate>
       
       <guid>http://localhost:1313/post/leetcode-7-reverse-integer/</guid>
-      <description>描述 难度：Easy 1 2 3 4 5 6 7 8 9 10 11 12 13 14 Given a 32-bit signed integer, reverse digits of an integer. Example 1: Input: 123 Output: 321 Example 2: Input: -123 Output: -321 Example 3: Input: 120 Output: 21 Note: Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range:</description>
+      <description>描述 难度：Easy 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 Given a 32-bit signed integer, reverse digits of an integer. Example 1: Input: 123 Output: 321 Example 2: Input: -123 Output: -321 Example 3: Input: 120 Output: 21 Note: Assume we are dealing with an environment which could only store integers within the 32-bit signed</description>
     </item>
     
     <item>
