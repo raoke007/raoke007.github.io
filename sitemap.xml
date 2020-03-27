@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/post/leetcode-23-merge-k-sorted-lists/</loc>
+    <lastmod>2020-03-27T10:16:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/leetcode-21-merge-two-sorted-lists/</loc>
     <lastmod>2020-03-27T08:05:32+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -122,7 +129,7 @@
   
   <url>
     <loc>http://localhost:1313/categories/leetcode/</loc>
-    <lastmod>2020-03-27T08:05:32+08:00</lastmod>
+    <lastmod>2020-03-27T10:16:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -136,7 +143,14 @@
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2020-03-27T08:05:32+08:00</lastmod>
+    <lastmod>2020-03-27T10:16:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/priorityqueue/</loc>
+    <lastmod>2020-03-27T10:16:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -171,7 +185,7 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-03-27T08:05:32+08:00</lastmod>
+    <lastmod>2020-03-27T10:16:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
