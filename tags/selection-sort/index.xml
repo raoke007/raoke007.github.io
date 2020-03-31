@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>selection sort on raoke007&#39;s blog</title>
+    <link>http://localhost:1313/tags/selection-sort/</link>
+    <description>Recent content in selection sort on raoke007&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Mar 2020 08:28:18 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/selection-sort/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Selection Sort【选择排序】</title>
+      <link>http://localhost:1313/post/sort-selectionsort/</link>
+      <pubDate>Tue, 31 Mar 2020 08:28:18 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/sort-selectionsort/</guid>
+      <description>理解：给定一个数组，依次遍历它，每次遍历过程中，寻找 未排序部分 中最小/大值，最小/大值与未排序部分第一个元素交换位置。 问：什么是选择排序？ 答</description>
+    </item>
+    
+  </channel>
+</rss>

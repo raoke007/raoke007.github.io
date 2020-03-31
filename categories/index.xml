@@ -19,5 +19,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Sort</title>
+      <link>http://localhost:1313/categories/sort/</link>
+      <pubDate>Tue, 31 Mar 2020 08:28:18 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/sort/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,10 +6,19 @@
     <description>Recent content on raoke007&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2020 10:24:08 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 08:28:18 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Selection Sort【选择排序】</title>
+      <link>http://localhost:1313/post/sort-selectionsort/</link>
+      <pubDate>Tue, 31 Mar 2020 08:28:18 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/sort-selectionsort/</guid>
+      <description>理解：给定一个数组，依次遍历它，每次遍历过程中，寻找 未排序部分 中最小/大值，最小/大值与未排序部分第一个元素交换位置。 问：什么是选择排序？ 答</description>
+    </item>
     
     <item>
       <title>LeetCode-9-Palindrome Number【待优化】</title>
