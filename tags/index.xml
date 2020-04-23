@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Backtracking</title>
+      <link>http://localhost:1313/tags/backtracking/</link>
+      <pubDate>Thu, 23 Apr 2020 20:48:01 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/backtracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DP</title>
       <link>http://localhost:1313/tags/dp/</link>
       <pubDate>Thu, 16 Apr 2020 22:49:45 +0800</pubDate>
@@ -86,7 +95,7 @@
     <item>
       <title>Recursion</title>
       <link>http://localhost:1313/tags/recursion/</link>
-      <pubDate>Thu, 16 Apr 2020 19:08:43 +0800</pubDate>
+      <pubDate>Thu, 23 Apr 2020 20:48:01 +0800</pubDate>
       
       <guid>http://localhost:1313/tags/recursion/</guid>
       <description></description>
