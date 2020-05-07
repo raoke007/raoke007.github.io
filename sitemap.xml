@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/post/leetcode-77-combinations/</loc>
+    <lastmod>2020-05-07T13:27:03+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/leetcode-46-permutations/</loc>
     <lastmod>2020-04-30T14:18:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -172,7 +179,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/backtracking/</loc>
-    <lastmod>2020-04-30T14:18:13+08:00</lastmod>
+    <lastmod>2020-05-07T13:27:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -206,7 +213,7 @@
   
   <url>
     <loc>http://localhost:1313/categories/leetcode/</loc>
-    <lastmod>2020-04-30T14:18:13+08:00</lastmod>
+    <lastmod>2020-05-07T13:27:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -220,7 +227,7 @@
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2020-04-30T14:18:13+08:00</lastmod>
+    <lastmod>2020-05-07T13:27:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -241,7 +248,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/recursion/</loc>
-    <lastmod>2020-04-30T14:18:13+08:00</lastmod>
+    <lastmod>2020-05-07T13:27:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -269,7 +276,7 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-04-30T14:18:13+08:00</lastmod>
+    <lastmod>2020-05-07T13:27:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
